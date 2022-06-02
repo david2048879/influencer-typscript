@@ -1,0 +1,30 @@
+.influencer{
+    display: flex;
+    border: 1px solid;
+    width: 650px;
+    margin-left: 350px;
+    padding: 10px;
+}
+
+.bio{
+    padding: 10px;
+    width: 300px;
+    /* margin-top: 30px;
+    margin-left: 0px; */
+}
+.profle img{
+    width: 100px;
+    border-radius: 50%;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 40px;
+    padding: 10px;
+    background: rgb(0, 47, 255);
+    border: none;
+}
